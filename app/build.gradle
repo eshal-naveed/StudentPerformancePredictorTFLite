@@ -30,8 +30,7 @@ android {
         compose true
     }
     androidResources {
-        noCompress; "tflite"
-        noCompress; "lite"
+            noCompress "tflite", "lite"
     }
 }
 

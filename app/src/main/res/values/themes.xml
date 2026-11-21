@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="Base.Theme.NumberGuessingTflite" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
 
-    <style name="Theme.NumberGuessingTflite" parent="Theme.AppCompat.Light.DarkActionBar" />
+    <style name="Theme.NumberGuessingTflite" parent="Base.Theme.NumberGuessingTflite" />
 </resources>
